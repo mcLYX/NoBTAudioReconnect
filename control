@@ -1,0 +1,8 @@
+Package: com.local.nobtaudioreconnect
+Name: NoBTAudioReconnect
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Description: Block BTAudioHALPlugin.bundle from loading to stop launchd (PID 1) busy loop (iOS 16.x, 鸣潮/异环)
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate

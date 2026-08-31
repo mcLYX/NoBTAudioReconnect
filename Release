@@ -1,0 +1,9 @@
+Origin: NoBTAudioReconnect
+Label: NoBTAudioReconnect
+Suite: stable
+Version: 1.0
+Codename: nbt
+Architectures: iphoneos-arm64
+Components: main
+Date: Mon, 31 Aug 2026 23:08:43 +0800
+Description: Block BTAudioHALPlugin.bundle to stop launchd busy loop (iOS 16.x)
