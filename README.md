@@ -44,7 +44,7 @@ ssh root@<device> "dpkg -i /var/mobile/Documents/NoBTAudioReconnect.deb"
 
 ```bash
 # 方式二：Sileo 添加本仓库源后搜索 NoBTAudioReconnect
-# 抱歉，源我还没建
+https://mclyx.github.io/NoBTAudioReconnect/
 ```
 
 ```bash
